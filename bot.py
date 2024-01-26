@@ -36,4 +36,4 @@ for filename in os.listdir("/home/pi/walross_bot/cogs"):
     if filename.endswith(".py"):
         client.load_extension(f"cogs.{filename[:-3]}")
 
-client.run("ODAzMzU5NDIyMzIzMjI4NzEz.YA8oww.1DGfVwZtM8ZNH9f7iEkFxSlMjo0")
+client.run("Hier würde ein Token stehen")
